@@ -1,4 +1,4 @@
-# Cypher-x-
+June_X_-Ultra
 A simple WhatsApp bot to manage groups and Dms
 <div align="center"> 
   <strong>𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔</strong>
